@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "Templates"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1 Projects/Projects - New Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "author:",
+              "database-plugin",
+              "date:",
+              "kanban-plugin",
+              "meeting_name:",
+              "project:",
+              "status",
+              "status:",
+              "title",
+              "version:"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e3010ec6-64d9-4dec-b082-da98c3bab19a",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "bfdb8f92-7e62-4803-aa9f-ba9ca67fcbdf",
+          "name": "Project Calender",
+          "type": "calendar"
+        }
+      ],
+      "id": "e9f22051-5a48-4f3a-aaaa-6e78d4d4fe19",
+      "name": "temp - project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1 Projects/YouTube_Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "96cf0ef7-1b9b-4987-af78-52febaa738ee",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5552e356-722b-46c3-8179-c7494c72e18c",
+      "name": "YouTube"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

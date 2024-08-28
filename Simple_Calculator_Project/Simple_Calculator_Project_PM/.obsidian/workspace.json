@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "ca57bf8577786957",
+    "type": "split",
+    "children": [
+      {
+        "id": "d11870e8fa74ebc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dad38a5109d5134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas and Brainstorming/Brainstorming Session on [Topic].md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a84331a25b08cd25",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d57c20cc9322d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c36d5de906b0f012",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b13de2ea820cd3f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Precalculus - Coledge Tri 48",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d63259f8af24894e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f63dfb2f4c85253",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "969c3418c12577e8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.5
+  },
+  "right": {
+    "id": "0567f2471aaa2e83",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddc155ed817b794e",
+        "type": "tabs",
+        "dimension": 26.80652680652681,
+        "children": [
+          {
+            "id": "b0f34c40aa5e4c9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas and Brainstorming/Brainstorming Session on [Topic].md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "034dd5261f4d0cde",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas and Brainstorming/Brainstorming Session on [Topic].md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d66180eb892fb46e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f4a4d0dfbeb4062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideas and Brainstorming/Brainstorming Session on [Topic].md"
+              }
+            }
+          },
+          {
+            "id": "cb9e4b027bb0ebe9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebdf680d869aa130",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "02224653de8388d4",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "8faad5e0cd58fb53",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "38c1d2e63a960d40",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c630233c6d62bf0",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a120025e18f9b81",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2fc99b04aabb6660",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 11
+      },
+      {
+        "id": "cf295b176a93b597",
+        "type": "tabs",
+        "dimension": 73.19347319347318,
+        "children": [
+          {
+            "id": "568668fdd04a3025",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 761.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Copilot Chat": false,
+      "custom-sort:Toggle custom sorting": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "homepage:Open homepage": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "slide-note:Slide Note Block Generator": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "whisper:Open recording controls": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-tts:Text to Speech": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4dad38a5109d5134",
+  "lastOpenFiles": [
+    "Dependencies and Related Projects/Change Management Coordination.md",
+    "smart-chats",
+    "Spaces",
+    "YouTube_Reference_Tool/YouTube Transcripts/TheEndofInjectionMoldingCostofSLALCDExplained.md",
+    "tmpagd8ckd5.tmp-Frag1",
+    "tmpagd8ckd5.tmp",
+    "YouTube_Reference_Tool/YouTube Transcripts/CreatetheUltimateHuman-To-WebDeviceRaspberryPiKioskMode.md",
+    "YouTube_Reference_Tool/Youtube_Ref_Tool.py",
+    "Git-To-Obsidian.bat",
+    "GitRepo-links.txt",
+    "scr/Pasted image 20240605124834.png",
+    "scr/Pasted image 20240820164427.png",
+    "scr/Pasted image 20240819103916.png",
+    "YouTube_Reference_Tool/Test plots/plot.py",
+    "YouTube_Reference_Tool/Test plots",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/YouTube_Ref Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/YouTube Content Calendar Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Thumbnail Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Target Audience Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Social Media Plan Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Show Concept  Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/SEO Keywords Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Script Template .md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Pre-Upload Preparation Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Production Schedule Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Filming Checklist Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Feedback Log Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Equipment List Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Episode Plans Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/Editing Guidelines Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/# Title Ideas Template.md",
+    "YouTube_Reference_Tool/Templates/YouTube Templates/# Analytics Report Template.md",
+    "YouTube_Reference_Tool/Templates/Structure Templates/Zotero Template.md",
+    "YouTube_Reference_Tool/Templates/Structure Templates/Standards Template.md",
+    "YouTube_Reference_Tool/Templates/Structure Templates/Resources Template.md",
+    "YouTube_Reference_Tool/Templates/Structure Templates/Person Template.md",
+    "YouTube_Reference_Tool/Templates/Structure Templates/MOC.md",
+    "YouTube_Reference_Tool/Templates/Structure Templates/Goal Template.md",
+    "YouTube_Reference_Tool/Templates/Course Templates/Temp_Course.ipynb",
+    "YouTube_Reference_Tool/Studio/Studio.canvas",
+    "YouTube_Reference_Tool/Studio/myStudio.canvas",
+    "YouTube_Reference_Tool/Studio/Logo_ULuMp24ucHZ9OQrl.png",
+    "YouTube_Reference_Tool/Studio/Logo_N0IwJpXpAd2RqjEQ.png",
+    "YouTube_Reference_Tool/Studio/Logo_J7NZAdjyn7GVbEIU.png",
+    "YouTube_Reference_Tool/Spaces/School/UFV.canvas",
+    "YouTube_Reference_Tool/Spaces/School/MakerSpace.canvas",
+    "YouTube_Reference_Tool/Spaces/Studio/Studio.canvas",
+    "YouTube_Reference_Tool/Spaces/Office/Network.canvas",
+    "YouTube_Reference_Tool/Spaces/Office/myOffice.canvas",
+    "YouTube_Reference_Tool/Canvas/Untitled.canvas",
+    "YouTube_Reference_Tool/Canvas/Untitled 1.canvas",
+    "YouTube_Reference_Tool/Canvas/Network.canvas",
+    "YouTube_Reference_Tool/src/Pasted image 20240117170240.jpg",
+    "YouTube_Reference_Tool/src/DALL·E 2024-03-31 18.07.42 - Revise the YouTube banner for 'BlackBook Tales' to include the channel name prominently in the center, along with a central, innovative muppet version.webp",
+    "YouTube_Reference_Tool/src/DALL·E 2024-03-31 18.07.30 - Create a YouTube banner for 'BlackBook Tales' featuring a muppet version of the host that resembles the person in the provided image, while maintainin.webp",
+    "YouTube_Reference_Tool/src/DALL·E 2024-03-31 18.07.12 - Adjust the YouTube banner for 'BlackBook Tales' based on the previous image ID bKyBM38nXBceAkEq to correct the channel name to simply read 'BlackBook .webp"
+  ]
+}
