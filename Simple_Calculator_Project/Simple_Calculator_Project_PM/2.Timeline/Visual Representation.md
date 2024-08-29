@@ -27,3 +27,7 @@ Incorporating a visual representation, like a Gantt Chart or a timeline diagram,
 - **Physical Copies**: If applicable, mention the availability of physical copies or where they can be found.
 
 Visual representations like Gantt Charts and timeline diagrams are vital for project communication, providing an easy-to-understand overview of the project’s progress and helping teams stay on track.
+
+
+
+---

@@ -19,42 +19,53 @@ Having an organized documentation system is crucial for efficient information ma
 
 ### Filing System Overview
 - **System Structure**:
-  - Describe the overall structure of the filing system. This might include a hierarchical setup with main categories and subcategories or a more flat structure based on document types.
+  - The filing system for Simple_Calculator_Project is organized hierarchically, with main categories aligned with the project phases: Planning, Execution, Monitoring, and Closure. Each main category is further divided into subcategories such as Technical Documents, Financial Records, Communication Logs, and Risk Management.
+
 - **Categorization**:
-  - Detail how documents are categorized. Categories could be based on project phases (e.g., planning, execution, closure), document types (e.g., technical documents, financial records, communication logs), or other relevant criteria.
+  - Documents are categorized based on their relevance to specific project phases or types. For example, within the Execution phase, documents are categorized into Deliverables, Progress Reports, and Change Requests. This ensures that related documents are grouped together, making it easier to locate specific files.
 
 ### Document Naming Conventions
 - **Standardized Naming**:
-  - Define a standardized naming convention for documents. This could include the project name, document type, date, and version number (e.g., ProjectName_Budget_20230405_v2).
+  - A standardized naming convention is used to ensure consistency across all project documents. The format is as follows:
+    - **ProjectName_DocumentType_Date_VersionNumber**.
+    - Example: `SimpleCalculator_Budget_20230815_v1.docx`.
+  - This convention includes the project name, type of document (e.g., Budget, Report, Specification), the date of creation or last update (in YYYYMMDD format), and the version number.
 
 ### Storage and Retrieval
 - **Storage Locations**:
-  - Specify where documents are stored, whether in a digital repository (like a cloud storage system or project management software) or physical filing systems.
+  - All documents are stored in a centralized digital repository on a cloud-based platform (e.g., Google Drive, SharePoint) that allows for real-time collaboration and access from any location. 
+  - Physical copies, where necessary, are stored in a secure, organized filing cabinet with folders labeled according to the same categorization system used in the digital repository.
+
 - **Retrieval Process**:
-  - Explain the process for retrieving documents. If using a digital system, this could include search functionalities, tags, or filters.
+  - The digital repository includes advanced search functionalities that allow users to locate documents by keyword, category, date, or document type. Filters and tags are also used to streamline the retrieval process, enabling quick access to specific documents.
 
 ### Security and Access
 - **Access Control**:
-  - Outline the access control measures in place. Specify who has access to what documents and how access permissions are managed.
+  - Access to the digital repository is controlled through role-based permissions. Project managers have full access, while team members have restricted access depending on their role and responsibilities. Sensitive documents, such as financial records and legal contracts, are further restricted to authorized personnel only.
+  - Access permissions are managed by the project administrator and are reviewed regularly to ensure appropriate access levels.
+
 - **Confidentiality Protocols**:
-  - Detail any confidentiality protocols, especially for sensitive documents, including encryption, password protection, or physical security measures for hard copies.
+  - Confidential documents are encrypted and password-protected. Access logs are maintained to monitor who accesses or modifies these files. For physical documents, sensitive files are stored in a locked cabinet with restricted access to authorized personnel only.
 
 ### Version Control
 - **Version Management**:
-  - Describe the version control system. Explain how different versions of documents are tracked and managed to ensure that team members are always working with the most up-to-date information.
+  - A version control system is in place within the digital repository to track changes to documents. Each document is tagged with its version number, and previous versions are archived but remain accessible if needed. 
+  - A changelog is maintained within each document, detailing edits, updates, and the name of the team member who made the changes.
 
 ### Regular Maintenance
 - **Update and Cleanup Routine**:
-  - Define a routine for updating and cleaning up the filing system. This could include archiving outdated documents, updating existing files, or removing duplicates.
+  - The filing system is reviewed and updated on a monthly basis. This routine includes archiving outdated documents, updating versions, and removing any duplicate or unnecessary files. 
+  - An annual audit of the filing system ensures long-term compliance with project management best practices.
 
 ### Integration with Communication Tools
 - **Link with Communication Channels**:
-  - Explain how the filing system is integrated with communication channels (like emails or team collaboration platforms) for easy reference and sharing of documents.
+  - The filing system is integrated with the team’s communication platform (e.g., Microsoft Teams, Slack), allowing direct links to documents within messages and discussion threads. This integration facilitates quick reference and reduces the need for repeated file uploads.
 
 ### Documentation Best Practices
 - **Best Practice Guidelines**:
-  - Provide guidelines for best practices in document creation, filing, and management to maintain consistency and efficiency.
+  - Best practices include creating clear, concise, and well-structured documents, using the standardized naming convention, and ensuring that all documents are properly categorized and filed immediately upon creation. 
+  - Regular training sessions are held to keep the team updated on best practices and any changes to the filing system.
 
 ---
 
-This organized approach to documentation for Simple_Calculator_Project ensures that all team members can easily find and use the documents they need. Regular updates, adherence to naming conventions, and proper security measures are key for maintaining an effective filing system.
+This organized documentation system for Simple_Calculator_Project enhances efficiency, ensures easy access to necessary information, and maintains the integrity and security of project files. By following these structured practices, the project team can ensure that all documentation needs are met promptly and effectively.
