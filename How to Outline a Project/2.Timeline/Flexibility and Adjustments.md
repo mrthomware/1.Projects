@@ -1,4 +1,3 @@
-
 # Flexibility and Adjustments
 
 Notes on potential adjustments and flexibility in the timeline.

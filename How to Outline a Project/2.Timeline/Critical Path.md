@@ -1,4 +1,3 @@
-
 # Critical Path
 
 Highlighting the critical path of the project.

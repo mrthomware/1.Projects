@@ -1,5 +1,3 @@
-
----
 # Buffer Time
 
 Inclusion of buffer times in the schedule for unforeseen delays.

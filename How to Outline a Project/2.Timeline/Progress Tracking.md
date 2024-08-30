@@ -1,4 +1,3 @@
-
 # Progress Tracking
 
 Method for tracking progress (e.g., progress bars, status updates).

@@ -1,4 +1,3 @@
-
 # Resource Allocation
 
 Summary of resources allocated to each task.

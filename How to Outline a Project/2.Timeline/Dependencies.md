@@ -1,4 +1,3 @@
-
 # Dependencies
 
 Graphical or tabular representation of task dependencies.

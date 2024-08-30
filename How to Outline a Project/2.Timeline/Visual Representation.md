@@ -1,4 +1,3 @@
-
 # Visual Representation
 
 Gantt Chart or timeline diagram (attached or referenced).

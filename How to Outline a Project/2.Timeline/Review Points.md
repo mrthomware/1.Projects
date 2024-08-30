@@ -1,5 +1,3 @@
-
-
 # Review Points
 
 Scheduled review points or meetings.
