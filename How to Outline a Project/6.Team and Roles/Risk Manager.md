@@ -30,3 +30,5 @@ The Risk Manager plays a pivotal role in project management, focusing on identif
 ---
 
 The Risk Manager’s role is critical in ensuring the project's resilience and capacity to handle uncertainties. Their strategic management of risks contributes significantly to the project's overall stability and success.
+
+---

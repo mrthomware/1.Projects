@@ -39,11 +39,10 @@ For a successful brainstorming session, having a clear and concise session overv
 This overview not only sets the stage for a productive brainstorming session but also ensures that all participants are aligned with the session’s objectives and logistics.
 
 ---
-Here's how the session overview template can be applied in the context of the Simple Calculator Project's brainstorming session on enhancing user experience:
+# Applied to the Simple Calculator Project
 
 ---
-
-### Session Overview
+# Session Overview
 
 #### Objective
 - **Description of the Problem/Topic**: 

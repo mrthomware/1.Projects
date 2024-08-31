@@ -41,11 +41,10 @@ Preparing effectively for a brainstorming session is crucial to foster creativit
 By ensuring a diverse team and preparing the necessary materials and tools, the session can be more dynamic, inclusive, and productive, leading to more innovative and effective solutions.
 
 ---
-Here’s how the preparation section can be applied in the context of the Simple Calculator Project's brainstorming session:
+# Applied to the Simple Calculator Project 
 
 ---
-
-### Preparation for Brainstorming Session
+# Preparation for Brainstorming Session
 
 #### Forming a Diverse Team
 - **Selection of Participants**: 

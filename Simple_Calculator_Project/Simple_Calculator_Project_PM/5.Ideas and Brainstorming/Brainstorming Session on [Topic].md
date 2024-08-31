@@ -49,11 +49,10 @@ Organizing a brainstorming session is an effective way to generate ideas, soluti
 By carefully planning and executing a brainstorming session on the specified topic, the project team can foster collaboration, gather diverse perspectives, and stimulate innovative thinking to address complex challenges or objectives.
 
 ---
-Certainly! Here’s how the brainstorming session template can be applied in the context of the Simple Calculator Project:
+# Applied to the Simple Calculator Project 
 
 ---
-
-### Brainstorming Session on **User Experience Enhancements for the Simple Calculator Project**
+# Brainstorming Session on **User Experience Enhancements for the Simple Calculator Project**
 
 #### Session Overview
 - **Topic**: Enhancing User Experience (UX) for the Simple Calculator Project.

@@ -38,11 +38,10 @@ Incorporating a section for notes or comments in your documentation of the brain
 By providing a space for additional notes and comments, you can capture a more holistic view of the brainstorming session, including subjective perspectives and nuanced insights that might otherwise be overlooked.
 
 ---
-Here’s how the notes and comments section can be applied in the context of the Simple Calculator Project's brainstorming session on enhancing user experience:
+# Applied to the Simple Calculator Project 
 
 ---
-
-### Notes/Comments
+# Notes/Comments
 
 #### General Observations
 - **Session Dynamics**: The session was highly engaging, with active participation from all attendees. The use of the round-robin technique ensured that everyone contributed ideas, and the atmosphere was positive and collaborative. Participants appeared energized and enthusiastic about the potential improvements to the calculator.
@@ -66,4 +65,4 @@ Here’s how the notes and comments section can be applied in the context of the
 
 ---
 
-This notes and comments section captures a holistic view of the brainstorming session, providing valuable insights and reflections that can be used to improve future sessions and guide the next steps in the Simple Calculator Project. If you need any further adjustments or have additional requests, feel free to ask!
+This notes and comments section captures a holistic view of the brainstorming session, providing valuable insights and reflections that can be used to improve future sessions and guide the next steps in the Simple Calculator Project.
