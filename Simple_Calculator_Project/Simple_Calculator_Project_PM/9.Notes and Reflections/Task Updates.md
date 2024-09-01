@@ -5,7 +5,6 @@ project: "Project Name"
 document_type: "Notes and Reflections"
 author: "Your Name"
 ---
----
 # Task Updates
 
 - **Task Name**:
@@ -42,11 +41,10 @@ Maintaining up-to-date records of task progress is crucial for the successful ma
 This format helps in keeping a clear and organized record of each task's progress, changes, and current requirements. Regular updates using this format will ensure that all team members and stakeholders of Simple_Calculator_Project are well-informed about where tasks stand and what resources are needed to move forward.
 
 ---
-Here's how you might structure task updates for the Simple_Calculator_Project based on the provided template:
+# Applied to the Simple Calculator Project
 
 ---
-
-## Task Updates for Simple_Calculator_Project
+# Task Updates for Simple_Calculator_Project
 
 ### Task Name 1: **Core Logic Development**
 - **Progress and Changes**:

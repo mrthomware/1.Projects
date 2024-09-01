@@ -5,7 +5,6 @@ project: "Project Name"
 document_type: "Notes and Reflections"
 author: "Your Name"
 ---
----
 # Resource Usage
 
 - **Resource Details**:
@@ -51,11 +50,10 @@ Template for documenting **Resource Usage** in Simple_Calculator_Project:
 This template allows for detailed tracking and analysis of how resources are being used in Simple_Calculator_Project. By regularly updating this document, the project team can ensure that resources are being utilized efficiently and can address any issues that arise promptly.
 
 ---
-Here’s the **Resource Usage** document, specifically tailored for Simple_Calculator_Project:
+# Applied to the Simple Calculator Project 
 
 ---
-
-## Resource Usage for Simple_Calculator_Project
+# Resource Usage for Simple_Calculator_Project
 
 ### Date: August 28, 2024
 

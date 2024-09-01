@@ -12,16 +12,13 @@ author: "Your Name"
 - **Discrepancies and Adjustments**:
 
 ---
-Here's a template for tracking the budget of the Simple_Calculator_Project:
 
----
-
-## Budget Tracking Template for Simple_Calculator_Project
+## Budget Tracking Template for [Project Name]
 
 ### [Date]
 
 #### Overview
-- **Total Project Budget**: $150,000
+- **Total Project Budget**: [Total Budget]
 - **Allocated Budget to Date**: [Total budget allocated to various categories to date]
 - **Remaining Budget**: [Total remaining budget after allocations]
 

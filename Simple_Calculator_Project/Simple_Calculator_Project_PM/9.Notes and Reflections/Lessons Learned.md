@@ -5,7 +5,6 @@ project: "Project Name"
 document_type: "Notes and Reflections"
 author: "Your Name"
 ---
----
 # Lessons Learned
 
 - **Insights and Best Practices**:
@@ -62,11 +61,10 @@ Here’s a **Lessons Learned** template that you can apply to the **Simple_Calcu
 This **Lessons Learned** template is designed to capture valuable insights and best practices that emerged during the **Simple_Calculator_Project**. By documenting these lessons, you can improve future projects, avoid past mistakes, and build on successful strategies.
 
 ---
-Here's the **Lessons Learned** document tailored for the **Simple_Calculator_Project**:
+# Applied to the Simple Calculator Project 
 
 ---
-
-## Lessons Learned for Simple_Calculator_Project
+# Lessons Learned for Simple_Calculator_Project
 
 ### Date: August 28, 2024
 

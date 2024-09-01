@@ -18,7 +18,7 @@ kanban-plugin: basic
 - [ ] [[1 Projects/Projects - New Project/Notes and Reflections/Stakeholder Communications]]
 - [ ] [[Risk Logs]]
 - [ ] [[Change Records]]
-- [ ] [[Budget Tracking 1]]
+- [ ] [[Budget Tracking Simple Calculator Project]]
 - [ ] [[Resource Usage]]
 - [ ] [[Technical Notes (for technical projects)]]
 - [ ] [[Lessons Learned]]

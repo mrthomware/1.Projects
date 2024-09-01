@@ -57,11 +57,10 @@ Here’s a template for **Technical Notes** specifically designed for technical 
 This **Technical Notes** template provides a structured way to document the technical aspects of modules or components within Simple_Calculator_Project. By keeping this information well-organized, you can ensure that team members have quick access to the details they need, fostering better collaboration and more efficient problem-solving throughout the project.
 
 ---
-Here’s the **Technical Notes** template specifically applied to the **Simple_Calculator_Project**:
+# Applied to the Simple Calculator Project 
 
 ---
-
-## Technical Notes for Simple_Calculator_Project
+# Technical Notes for Simple_Calculator_Project
 
 ### Date: August 28, 2024
 

@@ -5,7 +5,6 @@ project: "Project Name"
 document_type: "Notes and Reflections"
 author: "Your Name"
 ---
----
 # Challenges and Solutions
 
 - **Challenges Faced**:
@@ -37,11 +36,10 @@ Template for documenting **Challenges and Solutions**:
 This template helps in systematically capturing the challenges faced during a project and the solutions implemented to overcome them. It can be used as a reference for future projects to anticipate potential issues and apply proven strategies.
 
 ---
-Here’s how the **Challenges and Solutions** template can be applied to the Simple_Calculator_Project:
+# Applied to the Simple Calculator Project 
 
 ---
-
-## Challenges and Solutions for Simple_Calculator_Project
+# Challenges and Solutions for Simple_Calculator_Project
 
 ### Challenge 1: Integration of Third-Party Libraries
 
