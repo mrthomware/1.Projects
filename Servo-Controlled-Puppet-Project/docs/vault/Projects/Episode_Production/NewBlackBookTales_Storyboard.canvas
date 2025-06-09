@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1","type":"text","x":0,"y":0,"width":400,"height":200,"text":"🎬 Episode Title:\n“{{Insert Title Here}}”\n📖 Sketch Reference: Page {{page_number}} of Book {{book_number}} – \"{{sketch_name}}\""},
+		{"id":"2","type":"text","x":420,"y":0,"width":400,"height":250,"text":"🪄 Scene 1 – Opening Hook (0:00–0:30)\n📷 Frame: Sketchbook opens to reveal drawing\n🗣️ Narration: “Every sketch... has a story.”\n🎵 Audio: Ambient wind + soft flicker\n🎨 Visual: Fade into title"},
+		{"id":"3","type":"text","x":420,"y":270,"width":400,"height":250,"text":"📖 Scene 2 – Sketch Introduction (0:30–1:30)\n📷 Frame: Sketch and AI side-by-side\n🗣️ Narration: “This is from page {{page_number}}...”\n🎵 Audio: Lo-fi piano\n🎨 Visual: Crossfade + pan"},
+		{"id":"4","type":"text","x":420,"y":540,"width":400,"height":250,"text":"🧚 Scene 3 – Main Story Begins\n📷 Frame: Character/environment intro\n🗣️ Narration: “There once lived a {{creature_description}}...”\n🎵 Audio: Story theme\n🎨 Visual: Light motion or parallax"},
+		{"id":"5","type":"text","x":420,"y":810,"width":400,"height":250,"text":"🔄 Scene X – Turning Point / Reveal\n📷 Frame: Dramatic close-up\n🗣️ Narration: “...but something wasn’t right.”\n🎵 Audio: Tension music\n🎨 Visual: Lighting shift, zoom"},
+		{"id":"6","type":"text","x":420,"y":1080,"width":400,"height":250,"text":"🌌 Scene N – Resolution\n📷 Frame: Closing moment\n🗣️ Narration: “And so, it faded into legend...”\n🎵 Audio: Soft fade\n🎨 Visual: Zoom out, sketchbook closes"},
+		{"id":"7","type":"text","x":420,"y":1350,"width":400,"height":250,"text":"🔚 Scene Final – Outro CTA\n📷 Frame: Sketchbook closes, logo\n🗣️ Narration: “Tag your sketch with #BlackBookTales”\n🎵 Audio: Signature outro chime\n🎨 Visual: End screen + Subscribe"}
+	],
+	"edges":[]
+}
