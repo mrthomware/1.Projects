@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ca8c4e267b728434e906a35328a7f3522f810210ac615e944f9f41781183e96
+size 201
+=======
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 6b612032-8053-42b3-824f-1d2b0aaedc61)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
+>>>>>>> e5e28be14c763e54be292e415f540c9c3dd69a7b
