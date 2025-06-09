@@ -49,3 +49,78 @@ This project demonstrates core competencies in:
 ├── .gitignore
 ├── LICENSE
 └── README.md
+````
+
+---
+
+## 🚀 Getting Started
+
+To view or reproduce this project:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/8-Bit-Computer-Capstone.git
+   cd 8-Bit-Computer-Capstone
+   ```
+
+2. **Read the documentation**:
+
+   * Open `docs/Getting-Started.pdf` to begin
+   * Review the logic circuit layout and component list in `src/`
+
+3. **Build it on Breadboards**:
+
+   * Follow the layout diagrams
+   * Use IC datasheets in `references/` for wiring instructions
+
+---
+
+## ⚙️ Requirements
+
+**Hardware**:
+
+* 6× Breadboards
+* Assorted 74LS series logic ICs (e.g., 74LS00, 74LS04, 74LS161, 74LS173)
+* EEPROM (e.g., AT28C64 or 28C16)
+* LEDs, resistors, push-buttons, clock generator (555 timer or oscillator)
+* 5V regulated power supply
+* Jumper wires
+
+**Optional Tools**:
+
+* Logic analyzer or oscilloscope
+* IC puller, EEPROM programmer
+
+---
+
+## 📅 Milestones
+
+| Milestone              | Status      | Date         |
+| ---------------------- | ----------- | ------------ |
+| Project Concept        | ✅ Complete  | Feb 2025     |
+| Design & Documentation | ✅ Complete  | Mar 2025     |
+| Module Testing         | 🔄 Ongoing  | Apr–May 2025 |
+| Final Assembly         | 🔲 Upcoming | June 2025    |
+
+---
+
+## 👤 Author
+
+**Thomas Ware**
+Capstone Project Developer – Automation & Electronics Student
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/thomas-ware-83395473/)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+* [Ben Eater](https://eater.net/) for his educational 8-bit computer series
+* University of the Fraser Valley – ELTR Program
+* Fellow classmates, instructors, and mentors for their support
