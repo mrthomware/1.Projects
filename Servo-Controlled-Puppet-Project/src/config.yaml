@@ -1,0 +1,3 @@
+servo_channels:
+  - id: 0
+    angle: 90
