@@ -1,51 +1,51 @@
+# 🧠 8‑Bit Computer Capstone Project
+
+A handcrafted, modular 8‑bit computer built using TTL logic ICs — inspired by Ben Eater’s architecture — developed as part of an academic engineering capstone. This repository includes all project documentation, build instructions, diagrams, and supporting references.
+
+![Gantt Chart](assets/gantt-chart.jpg)
 
 ---
 
-## 🚀 Getting Started
+## 🎯 Project Objective
 
-1. :contentReference[oaicite:7]{index=7}
-    ```bash
-    git clone https://github.com/YOUR-USERNAME/8-Bit-Computer-Capstone.git
-    cd 8-Bit-Computer-Capstone
-    ```
-2. :contentReference[oaicite:8]{index=8}
-3. :contentReference[oaicite:9]{index=9}
+To design, build, and validate a fully functional 8‑bit CPU using only discrete components (no microcontrollers). The computer executes simple programs by coordinating a clock, registers, program counter, ALU, memory, and control logic — all built from the ground up using 74LS-series logic chips on a breadboard.
 
----
-
-## 📋 Requirements
-
-- :contentReference[oaicite:10]{index=10}  
-- :contentReference[oaicite:11]{index=11}  
-- **Software**: None
+This project demonstrates core competencies in:
+- Digital logic and microarchitecture
+- Circuit analysis and prototyping
+- Hardware timing and clock signal management
+- Technical documentation and engineering process
 
 ---
 
-## 📅 Project Milestones
+## 🧩 Core Features
 
-- :contentReference[oaicite:12]{index=12}  
-- :contentReference[oaicite:13]{index=13}  
-- :contentReference[oaicite:14]{index=14}  
-- :contentReference[oaicite:15]{index=15}
-
----
-
-## 👤 Author
-
-**Thomas Ware** – Innovative Animatronic Technician / Designer based in Chilliwack, BC. Skilled in mechanical design, electronics, robotics, automation, and fabrication :contentReference[oaicite:16]{index=16}
+- ✅ **Modular Hardware Design**: Includes ALU, Program Counter, Registers, Clock, Instruction Decoder, RAM, and ROM
+- 🧠 **TTL Logic Only**: Built entirely from 74LS-series integrated circuits
+- 🧪 **Step-by-Step Testing**: Debugged and validated one module at a time
+- 📄 **Complete Documentation**: Includes project charter, Gantt chart, ELTR course overview, and learning resources
+- 🛠️ **No Programming Required**: Machine code is programmed into EEPROM manually
 
 ---
 
-## 📄 License
+## 📁 Folder Structure
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
-
-- Ben Eater’s YouTube channel and tutorials  
-- UFV Electronics Department  
-- Colleagues and Mentors who provided guidance and feedback
-
----
+```plaintext
+8-Bit-Computer-Capstone/
+├── docs/               # Project documents, reports, and guides
+│   ├── ELTR-Course-Overview.docx
+│   ├── Project-Charter.docx
+│   └── Getting-Started.pdf
+├── assets/             # Project visuals, diagrams, and media
+│   └── gantt-chart.jpg
+├── src/                # Logic circuit schematics, breadboard layouts
+│   ├── logic-circuits/
+│   └── breadboard-layouts/
+├── references/         # External datasheets and technical references
+│   └── Data Sheets.zip
+├── notes/              # Markdown notes and file planning
+│   ├── Ben Eater's 8-bit Project.md
+│   └── file setup.txt
+├── .gitignore
+├── LICENSE
+└── README.md
