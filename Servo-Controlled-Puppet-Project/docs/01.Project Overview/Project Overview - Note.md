@@ -1,157 +1,157 @@
 ---
 title: "Project Overview - Note"
-date: 2025-06-09
-project: "Animatronic Control System Design & Simulation"
+date: 2025-06-10
+project: "Control Freaks Vault"
 document_type: "Executive Summary"
 author: "Thomas Ware"
-tags: [project-overview, control-system, animatronics, puppet-design]
+tags: [project-overview, solo-project, puppet-design, youtube-content, control-systems]
 ---
 
 # 📘 Project Overview – Note
 
-**Note**: This document provides a structured overview of the project, intended to keep all stakeholders informed and aligned with the project's objectives and progress.
+This document provides a **top-level overview** of the *Control Freaks Vault*, a solo-led effort to build a full-stack animatronic puppet system, combining **controller design**, **mechanical puppetry**, and **creative production workflows** for a YouTube audience.
 
 ---
 
 ## 🧠 Project Overview
 
-- **Project Title**: *Animatronic Control System Design & Simulation*
+- **Full Project Title**: *Control Freaks Vault: Animatronic Puppet System & Production Channel*
+- **Scope**: Embedded system development, puppet fabrication, and media publishing
+- **Managed By**: Thomas Ware (solo creator, builder, and producer)
 
 ---
 
 ## 1. Background and Purpose
 
 - **Context**:  
-  As part of the *BlackBook Tales* puppet-driven YouTube channel, this project aims to design and simulate an embedded control system for animatronic puppets that perform scripted movement synchronized with voice and audio playback.
+  The Control Freaks initiative grew from previous hand-controlled puppetry experiments and storytelling via the *BlackBook Tales* channel. This new iteration focuses on automating character movement to enable **repeatable, high-fidelity puppet performance**.
 
 - **Purpose**:  
-  To replace manual puppet handling with an automated servo and control logic system—enhancing storytelling realism, scalability, and production efficiency.
+  Transition from manual puppeteering to programmable control systems and modular animatronic builds. The goal is to create a **scalable solo workflow** that balances engineering, artistic fabrication, and YouTube storytelling.
 
 ---
 
 ## 2. Project Objectives and Goals
 
-- Design a servo motion control system with <50ms audio sync delay  
-- Develop a modular framework to support 3 puppet characters  
-- Integrate control triggers within the Obsidian production vault  
-- Document system workflows and prepare demo for public feedback
+- **Controller Development**:
+  - Build a low-latency servo controller with motion/audio sync
+  - Support modular plug-in profiles for different puppet behaviors
+
+- **Puppet Development**:
+  - Fabricate a functional puppet with jaw, eye, and gesture mechanisms
+  - Ensure mechanical reliability and expressive motion output
+
+- **YouTube Channel Development**:
+  - Write, film, and edit a complete puppet scene
+  - Highlight engineering and storytelling in an accessible, entertaining format
 
 ---
 
 ## 3. Scope of Work
 
 - **Inclusions**:
-  - Servo system prototyping
-  - Control script design and sync testing
-  - Modular character configuration
-  - Obsidian note integration
-  - Documentation and public demo video
+  - Circuit design, servo logic scripting, and Obsidian integration
+  - Fabrication of one test puppet with actuated facial parts
+  - Creative production pipeline: scripting, filming, publishing
+  - Embedded task tracking and content flow in Obsidian Vault
 
 - **Exclusions**:
-  - Physical puppet body fabrication
-  - AI-generated animation or voice synthesis
-  - Post-launch system maintenance
+  - No large-scale manufacturing or mass distribution
+  - No team-based task sharing (solo execution only)
+  - No advanced AI integration or third-party cloud automation
 
 ---
 
 ## 4. Key Deliverables
 
-- ✅ Working servo control prototype  
-- ✅ Audio-motion sync logic (<50ms)  
-- ✅ Character-specific control profiles (×3)  
-- ✅ Vault-integrated storyboard triggers  
-- ✅ Technical guide and documentation  
-- ✅ Demo video with user feedback metrics
+- ✅ Controller prototype with <50ms sync latency
+- ✅ Fabricated puppet with working jaw/eye mechanisms
+- ✅ Programmable motion scripts and YAML-embedded task logs
+- ✅ 3–5 minute pilot video uploaded to YouTube
+- ✅ Full Obsidian vault archive including diagrams, test logs, and version history
 
 ---
 
 ## 5. Timeline and Milestones
 
-- **Start Date**: June 10, 2025  
-- **Servo Prototype Completion**: July 15, 2025  
-- **Audio Sync System**: August 1, 2025  
-- **Modular Framework**: August 15, 2025  
-- **Obsidian Integration**: September 1, 2025  
-- **Project Wrap-Up & Video Launch**: September 10, 2025
+- **Start Date**: June 10, 2025
+- **Controller Phase End**: July 2, 2025
+- **Puppet Phase End**: July 24, 2025
+- **YouTube Episode Release**: August 2, 2025
+- **Documentation & Wrap-Up**: August 15, 2025
+
+> See `05.Timeline and Milestones.md` for detailed phase planning with buffers.
 
 ---
 
 ## 6. Budget Overview
 
-- **Total Budget**: $2,000 CAD  
-- **Cost Breakdown**:
-  - $500 – Materials (servos, boards, connectors)
-  - $200 – Software/simulation tools
-  - $150 – Training resources
-  - $100 – Local transport/logistics
+- **Total Project Budget**: $2,000 CAD
+- **Estimated Allocation**:
+  - $500 – Servo motors, MCU boards, cabling
+  - $350 – 3D printing, foam, hardware parts
+  - $300 – Audio gear and filming equipment
+  - $250 – Software tools and simulation licenses
   - $200 – Contingency
-  - $350 – Optional media production, illustrations, or freelance help
+  - $400 – Optional freelance editing/illustration
 
 ---
 
 ## 7. Stakeholders
 
-- **Project Team**:  
-  - Thomas Ware – Lead Designer, Developer, Project Manager
-
-- **Sponsors**:  
-  - Self-funded; potential future support from UFV MakerSpace
-
-- **External Parties**:  
-  - YouTube audience  
-  - Maker and animatronic forums (for feedback and testing)
+| Stakeholder     | Role                          | Involvement                   |
+|------------------|-------------------------------|--------------------------------|
+| Thomas Ware      | Creator & Engineer             | All project areas              |
+| YouTube Viewers  | Indirect Stakeholders          | Provide feedback post-launch   |
+| Future Collaborators | Technical/Artistic Extensions | Possible later episodes        |
 
 ---
 
 ## 8. Risk Management
 
-- **Risks**:
-  - Inaccurate motion timing or jitter
-  - Hardware malfunctions
-  - Time overruns due to scope creep
-  - Compatibility issues between Obsidian and script engines
+- **Top Risks**:
+  - Overload on solo capacity → burn-out or delays
+  - Servo jitter or timing mismatches
+  - Workflow gaps between engineering and content production
 
-- **Mitigations**:
-  - Use of high-quality servos and backups
-  - Debug log validation of audio sync
-  - Weekly scope check-ins
-  - Version-controlled script modules
+- **Mitigation**:
+  - Weekly progress reviews in `01.Timeline.md`
+  - Backup controllers and modular scripting
+  - Buffer days between phases; no overlapping workloads
 
 ---
 
 ## 9. Success Criteria
 
-- Servo sync verified <50ms in testing  
-- 3 character configs demonstrated via modular control  
-- 1 storyboard note linked to control execution  
-- Public demo launched with viewer engagement (≥5 comments)  
-- All deliverables submitted by September 10, 2025
+- One puppet performs a scripted routine synced to sound
+- Control logs and documentation managed in Obsidian
+- Pilot video garners engagement (views/comments)
+- All three project phases completed by August 15, 2025
 
 ---
 
 ## 10. Project Governance
 
-- **Governance Structure**:
-  - Thomas Ware assumes full roles: steering, execution, QA, documentation
-  - Self-imposed milestone reviews at each deliverable
-  - Solo control structure with periodic community validation
+- **Model**: Solo-governed, milestone-reviewed
+- **Tools Used**: Obsidian for docs/tasks, Git for versioning
+- **Accountability**: Internal tracking with weekly status syncs
 
 ---
 
 ## 11. Communication Plan
 
-- **Internal**:
-  - Daily notes and task tracking in Obsidian  
-  - Weekly milestone reviews and Kanban task logs
+- **Internal**:  
+  - Obsidian Notes: Task logs, YAML progress, Kanban board  
+  - Weekly Note Summary + Daily Task Tracking  
 
-- **External**:
-  - Milestone demos via YouTube  
-  - Monthly insights on LinkedIn  
-  - Viewer and community feedback integration
+- **External**:  
+  - Pilot video on YouTube (August 2, 2025)  
+  - Progress shared monthly on LinkedIn  
+  - Community polls or feedback forms after video release
 
 ---
 
 ## 📌 Summary
 
-This document serves as a live snapshot of the *Animatronic Control System Design & Simulation* project—aligning its engineering and creative goals. Through structured planning, automation, and storytelling integration, this project enhances the *Control Freaks* workflow, enabling professional puppet performances on a solo creator scale.
+The *Control Freaks Vault* is not just an engineering challenge—it’s a creative systems design experiment built by one person to prove that DIY automation, storytelling, and audience engagement can coexist in a streamlined solo pipeline. This project represents a **realistic, iterative model** for solo creators exploring animatronics and digital content.
 
