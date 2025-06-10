@@ -1,0 +1,42 @@
+{
+  "pages": [
+    {
+      "number": 1,
+      "data": [
+        {
+          "top": 10.0,
+          "left": 40.0,
+          "width": 260.0,
+          "height": 15.0,
+          "text": "Column 1"
+        },
+        {
+          "top": 10.0,
+          "left": 300.0,
+          "width": 260.0,
+          "height": 15.0,
+          "text": "Column 2"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "data": [
+        {
+          "top": 20.0,
+          "left": 60.0,
+          "width": 260.0,
+          "height": 15.0,
+          "text": "Column 1"
+        },
+        {
+          "top": 20.0,
+          "left": 320.0,
+          "width": 260.0,
+          "height": 15.0,
+          "text": "Column 2"
+        }
+      ]
+    }
+  ]
+}
