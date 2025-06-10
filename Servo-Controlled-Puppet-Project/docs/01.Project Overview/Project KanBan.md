@@ -2,24 +2,41 @@
 kanban-plugin: basic
 ---
 
-## Project Overview
+## 🧠 Project Management Overview
 
-- [ ] title: "Project Overview: Animatronic Control System Design & Simulation"
-- [ ] date: "2025-06-09"
-- [ ] project: "Animatronic Control System Design & Simulation"
-- [ ] document_type: "Project Overview"
+- [ ] title: "Control Freaks Vault – Project Overview"
+- [ ] date: "2025-06-10"
+- [ ] project: "Control Freaks Vault"
+- [ ] document_type: "Project Kanban Board"
 - [ ] author: "Thomas Ware"
-- [ ] [[1. Background and Purpose]]
-- [ ] [[2. Project Objectives and Goals]]
-- [ ] [[3. Scope of Work]]
-- [ ] [[4. Key Deliverables]]
-- [ ] [[5. Timeline and Milestones]]
-- [ ] [[6. Budget Overview]]
-- [ ] [[7. Stakeholders]]
-- [ ] [[8. Risk Management]]
-- [ ] [[9. Success Criteria]]
-- [ ] [[10. Project Governance]]
-- [ ] [[11. Communication Plan]]
+
+---
+
+## 🔧 Controller Development
+
+- [ ] [[01.Background and Purpose]]
+- [ ] [[02.Project Objectives and Goals]]
+- [ ] [[03.Scope of Work]]
+- [ ] [[04.Key Deliverables]]
+- [ ] [[05.Timeline and Milestones]]
+
+---
+
+## 🤖 Puppet Development
+
+- [ ] [[06.Budget Overview]]
+- [ ] [[07.Stakeholders]]
+- [ ] [[08.Risk Management]]
+
+---
+
+## 🎬 YouTube Channel Development
+
+- [ ] [[09.Success Criteria]]
+- [ ] [[10.Project Governance]]
+- [ ] [[11.Communication Plan]]
+- [ ] [[Mermaid Gannt Chart]]
+- [ ] [[Project KanBan]]
 - [ ] [[[Project Overview - Note]]]
 
 %% kanban:settings
