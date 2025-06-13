@@ -1,0 +1,23 @@
+# Obsidian system folder
+.obsidian/
+
+# Node.js modules
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs, temp, and backups
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+dist/
+build/
+
+# Environment configuration
+.env
+.env.*
