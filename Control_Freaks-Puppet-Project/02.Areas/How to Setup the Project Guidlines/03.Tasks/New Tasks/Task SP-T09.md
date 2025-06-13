@@ -1,4 +1,3 @@
-
 ---
 title: "Task SP-T09 – Edit Video and Audio Tracks Together"
 date: "2025-09-04"
@@ -6,6 +5,7 @@ project: "Control Freaks Vault"
 status: "not started"
 priority: "High"
 tags: ["task", "show-pipeline", "SP-T09", "video-editing", "audio-sync"]
+
 ---
 
 # Task SP-T09 – Edit Video and Audio Tracks Together
