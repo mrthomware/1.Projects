@@ -1,40 +1,30 @@
-```mermaid
 gantt
-    title Control Freaks Puppet Project Timeline (Solo Developer)
+    title Control Freaks Puppet Project Timeline
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
 
-    %% PHASE 1: Controller Development
-    section 🎮 Controller Development
-    Circuit Design (Schematic/Layout)       :c1, 2025-06-10, 6d
-    PCB Prototyping & Debugging             :c2, after c1, 6d
-    Firmware Dev: Basic Motion Control      :c3, after c2, 5d
-    Firmware Dev: Audio-Motion Sync         :c4, after c3, 4d
-    Firmware Dev: Profile & Modularization  :c5, after c4, 4d
-    Controller Sync Testing & Refinement    :c6, after c5, 4d
+    section 1️⃣ Controller Development
+    Task 1.1: Schematic Design & Planning        :t01, 2025-06-13, 5d
+    Task 1.2: PCB Layout & Rule Verification     :t02, after t01, 5d
+    Task 1.3: Firmware Framework Initialization  :t03, after t02, 4d
+    Task 1.4: Audio-Motion Sync Firmware         :t04, after t03, 5d
+    Task 1.5: Bench Testing & Debugging          :t05, after t04, 5d
 
-    %% PHASE 2: Puppet Development
-    section 🤖 Puppet Development
-    Puppet Design Sketch + Planning         :p1, 2025-07-01, 4d
-    CAD Modeling of Puppet + STL Prep       :p2, after p1, 6d
-    3D Printing + Surface Finishing         :p3, after p2, 7d
-    Servo Mounts + Mechanical Integration   :p4, after p3, 5d
-    Puppet Wiring & Servo Calibration       :p5, after p4, 4d
-    Motion Testing + Final Adjustments      :p6, after p5, 4d
+    section 2️⃣ Puppet Fabrication
+    Task 2.1: Sketches & CAD Drafting            :t06, after t05, 4d
+    Task 2.2: 3D Printing & Cleanup              :t07, after t06, 6d
+    Task 2.3: Mechanical Assembly & Painting     :t08, after t07, 5d
+    Task 2.4: Servo Mounting & Cable Routing     :t09, after t08, 4d
+    Task 2.5: Motion Calibration & Tuning        :t10, after t09, 4d
 
-    %% PHASE 3: YouTube Channel Development
-    section 🎬 YouTube Channel Development
-    Scriptwriting + Scene Planning          :y1, 2025-07-26, 2d
-    Storyboard Development                  :y2, after y1, 2d
-    Filming Sessions (Puppet Performance)   :y3, after y2, 3d
-    Voiceover Recording & Syncing           :y4, after y3, 2d
-    Video Editing & Subtitles               :y5, after y4, 4d
-    Publish Pilot + Community Review        :y6, after y5, 3d
+    section 3️⃣ Programming & Integration
+    Task 3.1: Motion Scripting Pass 1            :t11, after t10, 3d
+    Task 3.2: Audio Sync Test with Gesture Sets  :t12, after t11, 3d
+    Task 3.3: Refined Gesture Library            :t13, after t12, 3d
 
-    %% PHASE 4: Obsidian Workflow Integration
-    section 🗃 Obsidian Workflow Integration
-    Setup Vault Structure + Templates       :o1, 2025-08-07, 3d
-    Integrate YAML, Templater, Dataview     :o2, after o1, 2d
-    Script Logging + Task Linking System    :o3, after o2, 3d
-    Final Vault Documentation Export        :o4, after o3, 3d
-```
+    section 4️⃣ YouTube Production & Documentation
+    Task 4.1: Storyboarding & Scriptwriting      :t14, after t13, 2d
+    Task 4.2: Scene Filming & VO Recording       :t15, after t14, 4d
+    Task 4.3: Editing & Subtitles                :t16, after t15, 3d
+    Task 4.4: YouTube Upload & Engagement Sync   :t17, after t16, 2d
+    Task 4.5: Obsidian Archive & Publishing      :t18, after t17, 4d
