@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Control Freaks Puppet Project Timeline
     dateFormat  YYYY-MM-DD
@@ -28,3 +29,4 @@ gantt
     Task 4.3: Editing & Subtitles                :t16, after t15, 3d
     Task 4.4: YouTube Upload & Engagement Sync   :t17, after t16, 2d
     Task 4.5: Obsidian Archive & Publishing      :t18, after t17, 4d
+```
