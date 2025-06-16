@@ -1,0 +1,1 @@
+Placeholder content for Progress_Report_Week1.md.

@@ -1,0 +1,1 @@
+Placeholder content for Kickoff_Meeting_Minutes.md.

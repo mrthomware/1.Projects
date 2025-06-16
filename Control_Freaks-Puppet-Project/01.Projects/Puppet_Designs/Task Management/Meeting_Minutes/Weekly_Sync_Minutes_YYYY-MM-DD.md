@@ -1,0 +1,1 @@
+Placeholder content for Weekly_Sync_Minutes_YYYY-MM-DD.md.
