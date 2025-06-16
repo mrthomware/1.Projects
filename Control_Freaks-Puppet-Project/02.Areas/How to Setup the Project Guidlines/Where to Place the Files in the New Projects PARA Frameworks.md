@@ -1,3 +1,4 @@
+```plain text
 .github/
     workflows/
         ci.yml
@@ -95,3 +96,5 @@ Templates/
     Voiceover_Template.md
 img/
     ChatGPT Image May 4, 2025, 01_24_53 PM.png
+
+```
