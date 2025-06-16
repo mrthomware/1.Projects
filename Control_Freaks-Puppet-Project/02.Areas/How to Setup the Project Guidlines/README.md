@@ -1,4 +1,3 @@
-```markdown
 ---
 
 title: "How to Outline a Project – Structure and Reference"
@@ -165,4 +164,4 @@ Then begin:
 * \[\[Projects/Templates/Project Timeline Template.md]]
 
 ```
-```
+
