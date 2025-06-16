@@ -1,5 +1,5 @@
 ```mermaid
-graph TD
+graph LR
   P["Projects"]
   01_Project_Overview["01.Project Overview"]
   01_Project_Overview__01_Project_Overview_md["01.Project Overview.md"]
