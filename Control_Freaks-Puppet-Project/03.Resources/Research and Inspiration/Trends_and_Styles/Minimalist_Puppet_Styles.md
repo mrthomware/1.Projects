@@ -1,0 +1,1 @@
+Placeholder content for Minimalist_Puppet_Styles.md.

@@ -1,0 +1,1 @@
+Placeholder content for Material_Properties_Study.md.

@@ -1,0 +1,1 @@
+Placeholder content for Case_Study_Articulated_Puppets.md.

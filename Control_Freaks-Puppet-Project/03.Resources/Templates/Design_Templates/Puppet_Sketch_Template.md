@@ -1,0 +1,1 @@
+Placeholder content for Puppet_Sketch_Template.md.

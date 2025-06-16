@@ -1,0 +1,1 @@
+Placeholder content for Blender_Beginner_Guide.md.

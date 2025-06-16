@@ -1,0 +1,1 @@
+Placeholder content for Animation_Shot_List_Template.md.

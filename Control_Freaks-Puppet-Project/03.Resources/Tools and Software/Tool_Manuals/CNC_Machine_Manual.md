@@ -1,0 +1,1 @@
+Placeholder content for CNC_Machine_Manual.md.

@@ -1,0 +1,1 @@
+Placeholder content for Slicer_Software_Setup.md.

@@ -1,0 +1,1 @@
+Placeholder content for General_Log_Template.md.

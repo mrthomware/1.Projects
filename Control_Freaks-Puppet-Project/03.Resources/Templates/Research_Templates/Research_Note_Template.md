@@ -1,0 +1,1 @@
+Placeholder content for Research_Note_Template.md.

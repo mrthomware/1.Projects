@@ -1,0 +1,1 @@
+Placeholder content for Meeting_Minutes_Template.md.

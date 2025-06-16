@@ -1,0 +1,1 @@
+Placeholder content for Brainstorming_Session_Template.md.
