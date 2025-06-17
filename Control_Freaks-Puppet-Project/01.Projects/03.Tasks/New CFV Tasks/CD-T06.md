@@ -62,8 +62,8 @@ tags: ["task", "controller-development", "CD-T06", "ordering", "pcb", "component
 ### 🔗 Related Documents
 
 - [[CD-T05 – Export Gerbers and BOM; Prep for PCB Manufacturing]]
-- [[Budget_Plan.md]]
-- [[Resource_Allocation.md]]
+- [[Budget_Plan]]
+- [[Resource_Allocation]]
 - [[Order_Tracker.md]]
 
 ---

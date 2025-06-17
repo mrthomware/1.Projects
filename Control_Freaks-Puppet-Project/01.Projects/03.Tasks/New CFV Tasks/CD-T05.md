@@ -64,8 +64,8 @@ tags: ["task", "controller-development", "CD-T05", "gerbers", "bom", "pcb-prep"]
 
 - [[CD-T04 – Generate and Verify PCB Layout]]
 - [[Tasks and Activities Breakdown – Control Freaks Puppet Project]]
-- [[Budget_Plan.md]]
-- [[Resource_Allocation.md]]
+- [[Budget_Plan]]
+- [[Resource_Allocation]]
 - [[Timeline - Note]]
 
 ---

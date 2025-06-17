@@ -72,7 +72,7 @@ tags: ["task", "vault-publishing", "MOC", "finalization", "OV-T08"]
 - [[Timeline - Note.md]]  
 - [[Tasks and Activities Breakdown – Control Freaks Puppet Project]]  
 - [[PARA Index Map.md]]  
-- [[Change_Log.md]]
+- [[02.Areas/Feedback and Review/Change_Log]]
 
 ---
 
